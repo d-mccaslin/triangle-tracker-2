@@ -1,0 +1,20 @@
+{
+  "name": "triangle-tracker-2",
+  "version": "1.0.0",
+  "description": "#### _Webpage that exicutes week 2 objectives, 8.13.2020_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-mccaslin/triangle-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-mccaslin/triangle-tracker/issues"
+  },
+  "homepage": "https://github.com/d-mccaslin/triangle-tracker#readme"
+}
